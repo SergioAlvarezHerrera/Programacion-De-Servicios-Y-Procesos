@@ -1,0 +1,76 @@
+Error al comprimir los archivos: Cannot run program "C:\Program Files\7-Zip\7z.exe": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\prueba\file1.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\prueba\file2.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\prueba\file3.txt
+Error al copiar el archivo: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\prueba\file1.txt
+Error al copiar el archivo: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\prueba\file2.txt
+Error al copiar el archivo: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\prueba\file3.txt
+Error al comprimir los archivos.
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\file1.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\file2.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\file3.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\file1.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\file2.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\file3.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\hola\output\file3.txt
+Error al comprimir los archivos.
+Directorio creado: /hola
+Archivo creado: C:\hola\file1.txt
+Archivo creado: C:\hola\file2.txt
+Archivo creado: C:\hola\file3.txt
+Archivo copiado: C:\hola\file1.txt a C:\hola\output\file1.txt
+Archivo copiado: C:\hola\file2.txt a C:\hola\output\file2.txt
+Archivo copiado: C:\hola\file3.txt a C:\hola\output\file3.txt
+Error al comprimir los archivos.
+Directorio creado: vamos a suspender
+Archivo creado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\file1.txt
+Archivo creado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\file2.txt
+Archivo creado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\file3.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\file1.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\file2.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\file3.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\Programación de servicios\programas\Ejercicio_2 Process y ProcessBuilder\vamos a suspender\output\file3.txt
+Error al comprimir los archivos.
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\file1.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\file2.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\file3.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\file1.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\file2.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\Sergio Alvarez DAM\file3.txt a C:\Users\Sergio\Desktop\Sergio Alvarez DAM\output\file3.txt
+Error al comprimir los archivos.
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file1.txt
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file2.txt
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file3.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file1.txt a C:\Users\Sergio\Desktop\prueba\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file2.txt a C:\Users\Sergio\Desktop\prueba\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file3.txt a C:\Users\Sergio\Desktop\prueba\output\file3.txt
+Error al comprimir los archivos.
+Error al crear el directorio: import java.io.*;
+El directorio ya existe: C:\Users\Sergio\Desktop\prueba
+El archivo ya existe: C:\Users\Sergio\Desktop\prueba\file1.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\prueba\file2.txt
+El archivo ya existe: C:\Users\Sergio\Desktop\prueba\file3.txt
+El directorio de salida ya existe: C:\Users\Sergio\Desktop\prueba\output
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file1.txt a C:\Users\Sergio\Desktop\prueba\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file2.txt a C:\Users\Sergio\Desktop\prueba\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file3.txt a C:\Users\Sergio\Desktop\prueba\output\file3.txt
+Error al comprimir los archivos. Código de salida: 1
+El directorio ya existe: C:\Users\Sergio\Desktop\prueba
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file1.txt
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file2.txt
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file3.txt
+Directorio de salida creado: C:\Users\Sergio\Desktop\prueba\output
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file1.txt a C:\Users\Sergio\Desktop\prueba\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file2.txt a C:\Users\Sergio\Desktop\prueba\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file3.txt a C:\Users\Sergio\Desktop\prueba\output\file3.txt
+Error al comprimir los archivos. Código de salida: 1
+El directorio ya existe: C:\Users\Sergio\Desktop\prueba
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file1.txt
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file2.txt
+Archivo creado: C:\Users\Sergio\Desktop\prueba\file3.txt
+Directorio de salida creado: C:\Users\Sergio\Desktop\prueba\output
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file1.txt a C:\Users\Sergio\Desktop\prueba\output\file1.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file2.txt a C:\Users\Sergio\Desktop\prueba\output\file2.txt
+Archivo copiado: C:\Users\Sergio\Desktop\prueba\file3.txt a C:\Users\Sergio\Desktop\prueba\output\file3.txt
+Archivo comprimido: file1.txt
+Archivo comprimido: file2.txt
+Archivo comprimido: file3.txt
+Archivo ZIP creado: C:\Users\Sergio\Desktop\prueba\output.zip
